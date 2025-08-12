@@ -1,70 +1,40 @@
-<h1 align="center">
-  Hi There, I'm Mohammed Najeeb Al-Hafizi 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
+<h1>Hi There, I'm Mohammed Najeeb Al-Hafizi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p align="center">
-  <em>A passionate <b>Front-End Developer</b> from Yemen 🇾🇪, creating interactive & user-friendly websites with HTML, CSS, and JavaScript.  
-  Also have background knowledge in C++, Java, and Python.</em>
-</p>
+I'm a **Front-End Developer** passionate about building responsive, interactive, and user-friendly web applications.  
+I mainly work with **HTML**, **CSS**, and **JavaScript**, and I also have background knowledge in **C++**, **Java**, and **Python**.  
+I'm open to collaborating on interesting projects, whether they are personal, open-source, or client-based.
 
----
+## Skill Set :muscle:
 
-## 🚀 About Me  
-- 💻 I love building modern and responsive websites.  
-- 🎯 Always learning and exploring new technologies.  
-- 🤝 Open to collaborations and exciting projects.  
+These are some of the major technologies that I use or have experience with:
 
----
+**Programming Languages**
 
-## 🛠️ My Skill Set
+<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+|--|--|--|--|--|--|
 
-**Programming Languages**  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-</p>
+**Libraries and Frameworks**
 
-**Frameworks & Libraries**  
-<p>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black">
-</p>
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+|--|
 
-**Tools**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+**Tools**
 
----
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
+|--|--|--|--|--|
+<br>
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
-</p>
+## Some of my stats :bar_chart:
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">  
+<br>
 
-## 🤝 Let's Connect  
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+## Let's Connect :handshake:
 
----
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  
+<br>
 
-## 🎭 Random Meme For You  
-(*Refresh the page for a new one* 😄)  
-<p>
-  <a href="https://github.com/techytushar/random-memer">
-    <img src='https://web-production-4cea.up.railway.app/' title="Meme" height="400">
-  </a>
-</p>
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
