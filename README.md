@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Mohammed Najeeb Al-Hafizi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Mohammed Najeeb Al-hafidi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Front-End Developer** passionate about building responsive, interactive, and user-friendly web applications.  
 I mainly work with **HTML**, **CSS**, and **JavaScript**, and I also have background knowledge in **C++**, **Java**, and **Python**.  
